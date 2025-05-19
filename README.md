@@ -33,4 +33,4 @@ A modern, responsive single-page website built with Bootstrap 4. This project sh
 
 ## License
 
-All rights reserved - 2024 
+All rights reserved - 2025
